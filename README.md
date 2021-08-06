@@ -9,7 +9,7 @@
 
 ## :sushi: Some anime wallpapers
 <img src="./wallpapers/58.jpg" height="240" width="480">
-<img src="./wallpapers/71.jpg" height="240" width="480">
+<img src="./wallpapers/70.jpg" height="240" width="480">
 <img src="./wallpapers/38.png" height="240" width="480">
 
 ## :grey_question: Some abstract wallpapers
