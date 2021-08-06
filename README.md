@@ -3,6 +3,9 @@
 <br />
 
 ## :leaves: Some nature wallpapers
+<img src="./19.jpg" height="240" width="480">
+<img src="./24.png" height="240" width="480">
+<img src="./4.jpg" height="240" width="480">
 ![1](http://url/to/img.png)
 ![2](http://url/to/img.png)
 ![3](http://url/to/img.png)
