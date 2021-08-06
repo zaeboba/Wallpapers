@@ -8,7 +8,7 @@
 <img src="./4.jpeg" height="240" width="480">
 
 
-## :sushi: Some animes wallpapers
+## :sushi: Some anime wallpapers
 <img src="./58.jpg" height="240" width="480">
 <img src="./71.jpg" height="240" width="480">
 <img src="./38.png" height="240" width="480">
